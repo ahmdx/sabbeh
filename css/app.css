@@ -1,0 +1,88 @@
+@font-face {
+	font-family: 'PT Sans';
+}
+
+body {
+	font-family: 'PT Sans';
+}
+
+.banner {
+	height: 100%;
+	background-color: rgb(85, 85, 85);
+	background: linear-gradient(to bottom left, #1F2468, #079CA8);
+}
+
+.banner {
+	color: white;
+}
+
+.banner-content {}
+
+.navigation {}
+
+.logo {
+	height: 50px;
+	width: 50px;
+	background-image: url("../icon.png");
+	background-position: 50% 50%;
+	background-size: contain;
+	border-radius: 10px;
+}
+
+a {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+.left {
+	height: 40vh;
+}
+
+.right {
+	height: 60vh;
+}
+
+.tablet-image {
+	background-image: url("../mockup.png");
+	background-position: 100% 100%;
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.top-padding {
+	padding-top: 100px;
+}
+
+.bottom-padding {
+	padding-bottom: 100px;
+}
+
+.footer-padding {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.white-color {
+	color: white;
+}
+
+.icon {
+	margin-right: 30px;
+}
+
+.icon-left {
+	margin-left: 15px;
+}
+
+.icon-right {
+	margin-right: 15px;
+}
